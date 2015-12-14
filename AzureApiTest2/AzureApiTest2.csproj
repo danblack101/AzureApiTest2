@@ -110,6 +110,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="apiapp.json" />
+    <None Include="Properties\PublishProfiles\AzureApiTest2%28BlackKiwiBox1%29.pubxml" />
     <None Include="Properties\PublishProfiles\AzureApiTest3%28BlackKiwiBox1%29.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

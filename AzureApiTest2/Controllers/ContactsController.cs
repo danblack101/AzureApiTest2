@@ -18,7 +18,7 @@ namespace AzureApiTest2.Controllers
                 new Contact { Id = 1, EmailAddress = "barney@contoso.com", Name = "Barney Poland"},
                 new Contact { Id = 2, EmailAddress = "lacy@contoso.com", Name = "Lacy Barrera"},
                 new Contact { Id = 3, EmailAddress = "lora@microsoft.com", Name = "Lora Riggs"},
-                new Contact { Id = 4, EmailAddress = "deploy@microsoft.com", Name = "Deploy Tester"}
+                new Contact { Id = 4, EmailAddress = "deploy@microsoft.com", Name = "Next Deploy Tester"}
             };
         }
     }
